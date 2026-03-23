@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://earnest-malabi-048f68.netlify.app/sitemap.xml
